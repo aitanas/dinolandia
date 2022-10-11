@@ -1,0 +1,20 @@
+h1{
+  color: cornsilk;
+  font-style: oblique;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2, h3{
+  color: antiquewhite;
+  font-style: oblique;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body{
+  font-style: unset;
+  background-color: black;
+}
+
+p{
+  color: aliceblue;
+}
